@@ -1,0 +1,13 @@
+langgraph>=0.2
+langchain>=0.3
+langchain-openai>=0.2
+langchain-pinecone>=0.2
+langchain-community>=0.3
+langchain-text-splitters>=0.3
+pinecone>=5.0
+pypdf>=4.0
+fastapi>=0.110
+uvicorn>=0.29
+streamlit>=1.35
+python-dotenv>=1.0
+requests>=2.31
